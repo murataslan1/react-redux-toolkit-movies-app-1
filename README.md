@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-It is about to React - Redux using the Redux toolkit to build a project movie rating application from scratch. This video course is especially if you are planning to learn to React with the Redux Toolkit State Management library as a beginner. We will build a movie rating application and along with that we will use Axios for API calls, React Router DOM for Routing, and Node-SASS for our SCSS compile to CSS.
+It is about to React - Redux using the Redux toolkit to build a project movie rating application from scratch. This code is especially if you are planning to learn to React with the Redux Toolkit State Management library as a beginner. I build a movie rating application and along with that we will use Axios for API calls, React Router DOM for Routing, and Node-SASS for our SCSS compile to CSS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
